@@ -1,0 +1,14 @@
+{
+  "name": "simple-cloud-app",
+  "version": "1.0.0",
+  "description": "deploying simple app on docker/kubernetes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taha KAMIL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
